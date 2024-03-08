@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-03-08T11:26:20+08:00</lastmod>
   </url><url>
@@ -11,5 +12,19 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+=======
+    <loc>https://lancelotgd.github.io/post/blog/</loc>
+    <lastmod>2024-03-08T10:51:10+08:00</lastmod>
+  </url><url>
+    <loc>https://lancelotgd.github.io/</loc>
+    <lastmod>2024-03-08T10:51:10+08:00</lastmod>
+  </url><url>
+    <loc>https://lancelotgd.github.io/post/</loc>
+    <lastmod>2024-03-08T10:51:10+08:00</lastmod>
+  </url><url>
+    <loc>https://lancelotgd.github.io/categories/</loc>
+  </url><url>
+    <loc>https://lancelotgd.github.io/tags/</loc>
+>>>>>>> 7d2c085fea6a76885324e6e6563286b080599247
   </url>
 </urlset>

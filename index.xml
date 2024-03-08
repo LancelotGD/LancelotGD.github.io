@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
+<<<<<<< HEAD
     <link>http://localhost:1313/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,5 +16,25 @@
       <guid>http://localhost:1313/myblog/</guid>
       <description></description>
     </item>
+=======
+    <link>https://lancelotgd.github.io/</link>
+    <description>My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Mar 2024 10:51:10 +0800</lastBuildDate>
+    
+    <atom:link href="https://lancelotgd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://lancelotgd.github.io/post/blog/</link>
+      <pubDate>Fri, 08 Mar 2024 10:51:10 +0800</pubDate>
+      
+      <guid>https://lancelotgd.github.io/post/blog/</guid>
+      <description></description>
+    </item>
+    
+>>>>>>> 7d2c085fea6a76885324e6e6563286b080599247
   </channel>
 </rss>
